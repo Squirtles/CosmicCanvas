@@ -1,0 +1,35 @@
+[2025-02-21T22:12:31.009Z] Server running on port 3001
+[2025-02-21T22:12:43.405Z] Server running on port 3001
+[2025-02-21T22:13:12.503Z] Request IP: ::1
+[2025-02-21T22:13:12.503Z] Whitelist check: IP=::1, Allowed=false, Whitelist=["73.253.79.106","127.0.0.1"]
+[2025-02-21T22:13:12.504Z] Unauthorized attempt blocked
+[2025-02-21T22:13:12.857Z] Request IP: ::1
+[2025-02-21T22:13:12.858Z] Whitelist check: IP=::1, Allowed=false, Whitelist=["73.253.79.106","127.0.0.1"]
+[2025-02-21T22:13:12.858Z] Unauthorized attempt blocked
+[2025-02-21T22:13:13.016Z] Request IP: ::1
+[2025-02-21T22:13:13.017Z] Whitelist check: IP=::1, Allowed=false, Whitelist=["73.253.79.106","127.0.0.1"]
+[2025-02-21T22:13:13.017Z] Unauthorized attempt blocked
+[2025-02-21T22:13:13.156Z] Request IP: ::1
+[2025-02-21T22:13:13.156Z] Whitelist check: IP=::1, Allowed=false, Whitelist=["73.253.79.106","127.0.0.1"]
+[2025-02-21T22:13:13.157Z] Unauthorized attempt blocked
+[2025-02-21T22:13:13.306Z] Request IP: ::1
+[2025-02-21T22:13:13.307Z] Whitelist check: IP=::1, Allowed=false, Whitelist=["73.253.79.106","127.0.0.1"]
+[2025-02-21T22:13:13.307Z] Unauthorized attempt blocked
+[2025-02-21T22:13:13.460Z] Request IP: ::1
+[2025-02-21T22:13:13.461Z] Whitelist check: IP=::1, Allowed=false, Whitelist=["73.253.79.106","127.0.0.1"]
+[2025-02-21T22:13:13.461Z] Unauthorized attempt blocked
+[2025-02-21T22:13:13.614Z] Request IP: ::1
+[2025-02-21T22:13:13.615Z] Whitelist check: IP=::1, Allowed=false, Whitelist=["73.253.79.106","127.0.0.1"]
+[2025-02-21T22:13:13.615Z] Unauthorized attempt blocked
+[2025-02-21T22:13:13.764Z] Request IP: ::1
+[2025-02-21T22:13:13.764Z] Whitelist check: IP=::1, Allowed=false, Whitelist=["73.253.79.106","127.0.0.1"]
+[2025-02-21T22:13:13.765Z] Unauthorized attempt blocked
+[2025-02-21T22:13:13.926Z] Request IP: ::1
+[2025-02-21T22:13:13.927Z] Whitelist check: IP=::1, Allowed=false, Whitelist=["73.253.79.106","127.0.0.1"]
+[2025-02-21T22:13:13.927Z] Unauthorized attempt blocked
+[2025-02-21T22:13:14.075Z] Request IP: ::1
+[2025-02-21T22:13:14.075Z] Whitelist check: IP=::1, Allowed=false, Whitelist=["73.253.79.106","127.0.0.1"]
+[2025-02-21T22:13:14.076Z] Unauthorized attempt blocked
+[2025-02-21T22:13:14.233Z] Request IP: ::1
+[2025-02-21T22:13:14.234Z] Whitelist check: IP=::1, Allowed=false, Whitelist=["73.253.79.106","127.0.0.1"]
+[2025-02-21T22:13:14.234Z] Unauthorized attempt blocked

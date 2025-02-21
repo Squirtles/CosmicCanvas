@@ -1,0 +1,3 @@
+[Fri 02/21/2025 16:50:41.07] Starting script 
+[Fri 02/21/2025 16:50:41.12] Node.js found 
+[Fri 02/21/2025 16:50:41.12] Preparing back-end... 

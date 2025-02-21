@@ -1,0 +1,4 @@
+[Fri 02/21/2025 16:44:44.50] Starting script 
+[Fri 02/21/2025 16:44:44.55] Node.js found 
+[Fri 02/21/2025 16:44:44.55] Starting front-end on port 3000... 
+ INFO  Accepting connections at http://localhost:3000

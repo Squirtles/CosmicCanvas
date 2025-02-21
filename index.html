@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Cosmic Canvas</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.4.2/p5.min.js"></script>
+    <script src="https://js.pusher.com/7.0/pusher.min.js"></script>
+    <style>
+        #palette {
+            display: flex;
+            flex-wrap: wrap;
+            width: 200px;
+        }
+
+        .color-swatch {
+            width: 20px;
+            height: 20px;
+            margin: 2px;
+            cursor: pointer;
+        }
+
+        #brush-options {
+            margin-top: 10px;
+        }
+
+        #admin-controls {
+            margin-top: 10px;
+        }
+
+        #pen-indicator {
+            width: 100px;
+            height: 20px;
+            margin: 0 auto;
+            text-align: center;
+            color: white;
+        }
+
+        #key-controls {
+            margin-top: 5px;
+            display: flex;
+            gap: 20px;
+            justify-content: center;
+        }
+
+        .key {
+            width: 40px;
+            height: 40px;
+            background: #ccc;
+            text-align: center;
+            line-height: 40px;
+        }
+
+        .key.active {
+            background: #ff5555;
+        }
+
+        #cursor-toggle {
+            margin-top: 10px;
+            text-align: center;
+        }
+
+        #cursor-button {
+            padding: 5px 10px;
+        }
+
+        #cursor-button.active {
+            background: #00FF00;
+            color: white;
+        }
+    </style>
+</head>
+
+<body>
+    <div id="pen-indicator">Pen: Off | Cursor: Off</div>
+    <div id="palette"></div>
+    <div id="brush-options">
+        <button onclick="setBrush('circle')">Circle</button>
+        <button onclick="setBrush('square')">Square</button>
+        <button onclick="setBrush('spray')">Spray</button>
+        <input type="range" id="brush-size" min="1" max="50" value="10">
+    </div>
+    <div id="admin-controls">
+        <button onclick="clearCanvas()">Clear Canvas</button>
+        <button onclick="saveCanvas()">Save Canvas</button>
+        <button onclick="loadCanvas()">Load Canvas</button>
+    </div>
+    <div id="key-controls">
+        <div id="space-key" class="key">Space</div>
+        <div id="shift-key" class="key">Shift</div>
+    </div>
+    <div id="cursor-toggle">
+        <button id="cursor-button" onclick="toggleCursor()">Cursor Toggle</button>
+    </div>
+    <script src="sketch.js"></script>
+</body>
+
+</html>

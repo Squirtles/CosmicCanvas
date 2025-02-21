@@ -1,0 +1,47 @@
+[Fri 02/21/2025 17:12:42.91] === Starting backend script === 
+[Fri 02/21/2025 17:12:42.91] Script location: C:\Users\myfre\Documents\Games\Cosmic Canvas\server\start-server.bat 
+[Fri 02/21/2025 17:12:42.92] Current directory: C:\Users\myfre\Documents\Games\Cosmic Canvas\server 
+[Fri 02/21/2025 17:12:42.92] PATH: C:\Program Files\Eclipse Adoptium\jre-21.0.4.7-hotspot\bin;C:\Program Files\Eclipse Adoptium\jre-11.0.24.8-hotspot\bin;C:\Program Files\Eclipse Foundation\jdk-16.0.2.7-hotspot\bin;C:\Program Files\Eclipse Adoptium\jre-17.0.12.7-hotspot\bin;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.6\bin;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.6\libnvvp;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\java8path;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64\compiler;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\Git\cmd;C:\Users\myfre\AppData\Local\Microsoft\WindowsApps;C:\Users\myfre\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\myfre\AppData\Local\GitHubDesktop\bin;C:\ffmpeg\ffmpeg-*-essentials_build\bin;C:\ffmpeg\ffmpeg-7.0.1-essentials_build\bin;C:\ffmpeg\ffmpeg-7.0.1-essentials_build\bin;C:\Program Files\NVIDIA Corporation\NVIDIA app\NvDLISR;C:\Program Files\nodejs\;F:\Library\VSC\VC\Tools\MSVC\14.41.34120\bin\Hostx64\x64;C:\Users\myfre\AppData\Local\Programs\Python\Python310\;;C:\Program Files\Docker\Docker\resources\bin;C:\Program Files\dotnet\;C:\Program Files\NVIDIA Corporation\Nsight Compute 2024.3.1\;C:\Strawberry\c\bin;C:\Strawberry\perl\site\bin;C:\Strawberry\perl\bin;C:\Program Files\PuTTY\;C:\Users\myfre\.cargo\bin;C:\Users\myfre\solana\active_release\bin;C:\Program Files\Eclipse Adoptium\jre-21.0.4.7-hotspot\bin;C:\Program Files\Eclipse Adoptium\jre-11.0.24.8-hotspot\bin;C:\Program Files\Eclipse Foundation\jdk-16.0.2.7-hotspot\bin;C:\Program Files\Eclipse Adoptium\jre-17.0.12.7-hotspot\bin;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.6\bin;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.6\libnvvp;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\java8path;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64\compiler;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\Git\cmd;C:\Users\myfre\AppData\Local\Microsoft\WindowsApps;C:\Users\myfre\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\myfre\AppData\Local\GitHubDesktop\bin;C:\ffmpeg\ffmpeg-*-essentials_build\bin;C:;C:\Users\myfre\AppData\Local\Programs\Python\Python310\Scripts; 
+[Fri 02/21/2025 17:12:42.93] Attempting to change to script directory: C:\Users\myfre\Documents\Games\Cosmic Canvas\server\ 
+[Fri 02/21/2025 17:12:42.96] Successfully changed to directory: C:\Users\myfre\Documents\Games\Cosmic Canvas\server 
+[Fri 02/21/2025 17:12:42.96] Checking for server.js in C:\Users\myfre\Documents\Games\Cosmic Canvas\server... 
+[Fri 02/21/2025 17:12:42.97] server.js found at C:\Users\myfre\Documents\Games\Cosmic Canvas\server\server.js 
+[Fri 02/21/2025 17:12:42.98] Checking for Node.js... 
+[Fri 02/21/2025 17:12:43.14] Node.js found - Version: v20.15.1 
+[Fri 02/21/2025 17:12:43.14] Checking port 3001 availability... 
+[Fri 02/21/2025 17:12:43.18] Port 3001 is available 
+[Fri 02/21/2025 17:12:43.18] Attempting to start backend on port 3001... 
+[2025-02-21T22:12:43.405Z] Server running on port 3001
+[2025-02-21T22:13:12.503Z] Request IP: ::1
+[2025-02-21T22:13:12.503Z] Whitelist check: IP=::1, Allowed=false, Whitelist=["73.253.79.106","127.0.0.1"]
+[2025-02-21T22:13:12.504Z] Unauthorized attempt blocked
+[2025-02-21T22:13:12.857Z] Request IP: ::1
+[2025-02-21T22:13:12.858Z] Whitelist check: IP=::1, Allowed=false, Whitelist=["73.253.79.106","127.0.0.1"]
+[2025-02-21T22:13:12.858Z] Unauthorized attempt blocked
+[2025-02-21T22:13:13.016Z] Request IP: ::1
+[2025-02-21T22:13:13.017Z] Whitelist check: IP=::1, Allowed=false, Whitelist=["73.253.79.106","127.0.0.1"]
+[2025-02-21T22:13:13.017Z] Unauthorized attempt blocked
+[2025-02-21T22:13:13.156Z] Request IP: ::1
+[2025-02-21T22:13:13.156Z] Whitelist check: IP=::1, Allowed=false, Whitelist=["73.253.79.106","127.0.0.1"]
+[2025-02-21T22:13:13.157Z] Unauthorized attempt blocked
+[2025-02-21T22:13:13.306Z] Request IP: ::1
+[2025-02-21T22:13:13.307Z] Whitelist check: IP=::1, Allowed=false, Whitelist=["73.253.79.106","127.0.0.1"]
+[2025-02-21T22:13:13.307Z] Unauthorized attempt blocked
+[2025-02-21T22:13:13.460Z] Request IP: ::1
+[2025-02-21T22:13:13.461Z] Whitelist check: IP=::1, Allowed=false, Whitelist=["73.253.79.106","127.0.0.1"]
+[2025-02-21T22:13:13.461Z] Unauthorized attempt blocked
+[2025-02-21T22:13:13.614Z] Request IP: ::1
+[2025-02-21T22:13:13.615Z] Whitelist check: IP=::1, Allowed=false, Whitelist=["73.253.79.106","127.0.0.1"]
+[2025-02-21T22:13:13.615Z] Unauthorized attempt blocked
+[2025-02-21T22:13:13.764Z] Request IP: ::1
+[2025-02-21T22:13:13.764Z] Whitelist check: IP=::1, Allowed=false, Whitelist=["73.253.79.106","127.0.0.1"]
+[2025-02-21T22:13:13.765Z] Unauthorized attempt blocked
+[2025-02-21T22:13:13.926Z] Request IP: ::1
+[2025-02-21T22:13:13.927Z] Whitelist check: IP=::1, Allowed=false, Whitelist=["73.253.79.106","127.0.0.1"]
+[2025-02-21T22:13:13.927Z] Unauthorized attempt blocked
+[2025-02-21T22:13:14.075Z] Request IP: ::1
+[2025-02-21T22:13:14.075Z] Whitelist check: IP=::1, Allowed=false, Whitelist=["73.253.79.106","127.0.0.1"]
+[2025-02-21T22:13:14.076Z] Unauthorized attempt blocked
+[2025-02-21T22:13:14.233Z] Request IP: ::1
+[2025-02-21T22:13:14.234Z] Whitelist check: IP=::1, Allowed=false, Whitelist=["73.253.79.106","127.0.0.1"]
+[2025-02-21T22:13:14.234Z] Unauthorized attempt blocked
